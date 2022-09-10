@@ -3,7 +3,7 @@ How To Install and Configuration NGINX in ubuntu
 
 
 # NGINX
-![image info](https://idmetafora.com/news/read/738/Mengenal-Apa-itu-Nginx-Fungsi-dan-Cara-Kerjanya.html)
+![image info](https://www.nusa.id/knowledge-base/content/images/2021/05/NGINX-logo-rgb-large.png)
 
 ### Step Following this bellow
 1. Update Software Repositories
