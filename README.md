@@ -226,9 +226,15 @@ Important Nginx File Locations
 By default, Nginx stores different configuration and log files in the following locations:
 
 /var/www/html – Website content as seen by visitors.
+
 /etc/nginx – Location of the main Nginx application files.
+
 /etc/nginx/nginx.conf – The main Nginx configuration file.
+
 /etc/nginx/sites-available – List of all websites configured through Nginx.
+
 /etc/nginx/sites-enabled – List of websites actively being served by Nginx.
+
 /var/log/nginx/access.log – Access logs tracking every request to your server.
+
 /var/log/ngins/error.log – A log of any errors generated in Nginx.
